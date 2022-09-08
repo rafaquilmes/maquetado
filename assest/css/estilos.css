@@ -1,0 +1,51 @@
+
+body{
+   background: rgb(247,255,249);
+background: linear-gradient(0deg, rgba(247,255,249,1) 0%, rgba(90,182,171,1) 100%);
+}
+
+.perfil {
+  margin-top: -100px; 
+}
+  
+
+.navbar.navbar-expand-lg{
+   background: rgb(1,14,4);
+   background: linear-gradient(0deg, rgba(1,14,4,1) 0%, rgba(90,182,171,1) 100%);
+}
+
+
+
+
+    i.fa-brands.fa-facebook.fa-2xl,
+    i.fa-brands.fa-instagram.fa-2xl,
+    i.fa-brands.fa-whatsapp.fa-2xl,
+    i.fa-solid.fa-envelope.fa-2xl,
+    i.fa-solid.fa-user.fa-2xl
+    {color: #fff;}
+  
+    
+    i.fa-brands.fa-facebook.fa-2xl:hover{
+   color: rgb(40, 130, 209);
+    }
+
+   i.fa-brands.fa-instagram.fa-2xl:hover{
+        color: rgb(217, 89, 42);
+     }
+
+   i.fa-brands.fa-whatsapp.fa-2xl:hover{
+        color: rgb(30, 218, 58);
+     }
+
+   i.fa-solid.fa-envelope.fa-2xl:hover{
+        color: rgb(134, 130, 130);
+     }
+
+   i.fa-solid.fa-user.fa-2xl:hover{
+      color: rgb(0, 0, 0);
+   }
+
+     ul.list-group{ 
+    --bs-list-group-bg: transparent;
+    --bs-list-group-border-color: transparent;
+   }
